@@ -10,4 +10,5 @@ compare(a, b)
         console.log(b +"is greater than" + a);
     }
 }
+
 compare(i,j);
